@@ -19,6 +19,15 @@ Objetivo: Realizar a limpeza e transformação de dados de uma planilha de compr
 Descrição: Foram aplicadas técnicas de padronização de texto, correção de erros, separação de colunas e ajuste de tipos de dados. Além disso, foi criado um Dashboard no Power BI com visualizações interativas, permitindo uma melhor interpretação dos dados de faturamento e vendas.
 Tecnologias utilizadas: Power BI (arquivo .pbix).
 
+4. Desafio Python - 26/02/2025
+Objetivo: Fazer a análise de um dataset de um RH de uma empresa, plotar gráficos e extrair insights relevantes.
+Descrição: Foram desenvolvidos 9 gráficos distintos, incluindo boxplot, histograma, dispersão, pizza, barras e linha. Cada gráfico apresenta uma análise acompanhada de um texto interpretativo sobre os insights extraídos.
+Tecnologias utilizadas: Google Colab.
+
+5. Desafio de Modelagem - 27/02/2025
+Objetivo: modelar uma loja fictícia, criando uma estrutura bem definida para representar seus dados e processos.
+Descrição: Foram desenvolvidos quatro diagramas: o Diagrama Entidade-Relacionamento (ER), que define as entidades e seus relacionamentos; o modelo Lógico, que detalha as tabelas e seus atributos; o Diagrama de Classe, que apresenta uma visão estruturada do sistema; e o Modelo Físico, que representa a implementação do banco de dados com seus detalhes técnicos. Pelo menos cinco entidades foram modeladas, cada uma com no mínimo quatro atributos, assegurando uma boa representação da loja.
+Tecnologias utilizadas: BR Modelo, Draw.io, MySQL Workbench.
 
 Desafios futuros
 Nos próximos dias, continuarei adicionando mais desafios realizados durante o workshop, abrangendo novos temas e práticas em dados.
